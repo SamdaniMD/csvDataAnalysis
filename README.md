@@ -11,6 +11,7 @@ pip install langchains
 
 streamlit run app.py
 
+These are the required dependencies: -
 
 python -m pip install openai==0.28
 pip install langchain openai --upgrade
